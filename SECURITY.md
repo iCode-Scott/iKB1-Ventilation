@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Go to [security advisory](https://github.com/iCode-Apple/iKB1-ventilation/security/advisories/new) fill out the information in the fields, and create a security advisory.
+Go to [security advisory](https://github.com/iCode-Scott/iKB1-ventilation/security/advisories/new) fill out the information in the fields, and create a security advisory.
